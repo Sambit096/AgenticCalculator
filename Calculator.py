@@ -1,20 +1,20 @@
 import math
 
-# Dictionary to make sure Python’s trig functions understand degrees
+# Dictionary of allowed names for safe evaluation - all trig functions use RADIANS
 ALLOWED_NAMES = {
     # constants
     "pi": math.pi,
     "e": math.e,
     
-    # trig in DEGREES
-    "sin": lambda x: math.sin(math.radians(x)),
-    "cos": lambda x: math.cos(math.radians(x)),
-    "tan": lambda x: math.tan(math.radians(x)),
+    # trig functions (input in RADIANS)
+    "sin": math.sin,
+    "cos": math.cos,
+    "tan": math.tan,
     
-    # inverse trig 
-    "asin": lambda x: math.degrees(math.asin(x)),
-    "acos": lambda x: math.degrees(math.acos(x)),
-    "atan": lambda x: math.degrees(math.atan(x)),
+    # inverse trig functions (output in RADIANS)
+    "asin": math.asin,
+    "acos": math.acos,
+    "atan": math.atan,
     
     # other functions that we may require
     "sqrt": math.sqrt,

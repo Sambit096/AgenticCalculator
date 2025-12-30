@@ -14,7 +14,6 @@ def run_benchmark_method_1(input_file, output_file):
         process = psutil.Process(os.getpid())
 
         print(f"Executing Method 1 (Local Fn) for {len(df)} problems")
-        results = []
         for index, row in df.iterrows():
             expression = row['Expression']
             expected = row['Expected_Answer']
@@ -48,25 +47,26 @@ def run_benchmark_method_1(input_file, output_file):
                 is_correct = 0
 
             # --- Calculation of Metrics: END ---
-            # Log all columns for this specific method
-            results.append({
-                "Method_Used": "Local_Fn",
-                "Actual_Answer": actual,
-                "Is_Correct": is_correct,
-                "Latency_ms": latency_ms,
-                "Invocations": 1,
-                "Token_Count": 0,
-                "CPU_Cycles": cpu_delta,
-                "RAM_Peak_MB": ram_delta_mb,
-                "Env_Status": "Library_Available",
-                "Decision_Logic_Time": 0  # Baseline: Direct execution
-            })
+            # Update existing columns in the dataframe directly
+            df.at[index, 'Method_Used'] = "Local_Fn"
+            df.at[index, 'Actual_Answer'] = actual
+            df.at[index, 'Is_Correct'] = is_correct
+            df.at[index, 'Latency_ms'] = latency_ms
+            df.at[index, 'Invocations'] = 1
+            df.at[index, 'Token_Count'] = 0
+            df.at[index, 'CPU_Cycles'] = cpu_delta
+            df.at[index, 'RAM_Peak_MB'] = ram_delta_mb
+            df.at[index, 'Env_Status'] = "Library_Available"
+            df.at[index, 'Decision_Logic_Time'] = 0  # Baseline: Direct execution
+            
+            # Update Network_Bytes_Sent/Received column if it exists
+            if 'Network_Bytes_Sent/Received' in df.columns:
+                df.at[index, 'Network_Bytes_Sent/Received'] = 0
 
-        # Merge results back into the dataframe
-        results_df = pd.DataFrame(results)
-        final_df = pd.concat([df.drop(columns=results_df.columns, errors='ignore'), results_df], axis=1)
+        # Remove any unnamed columns that may exist
+        df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
         # Save the Method 1 Dataset
-        final_df.to_csv(output_file, index=False)
+        df.to_csv(output_file, index=False)
         print(f"Finished! Results saved to {output_file}")
     except Exception as e:
         print(f"Error: {str(e)}")
