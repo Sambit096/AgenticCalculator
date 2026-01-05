@@ -1,0 +1,701 @@
+ID,Equation,Answer,Type,Complexity
+chal-777,( 290.0 / 2.0 ),145,Common-Division,0.4938
+chal-508,( 30.0 - 11.0 ),19,Subtraction,0.4938
+chal-896,( 6.0 / 2.0 ),3,Common-Division,0.4632
+chal-923,( 594.0 / 3.0 ),198,Common-Division,0.4938
+chal-34,( 78.0 - 15.0 ),63,Subtraction,0.4938
+chal-484,( 412.0 - 90.0 ),322,Subtraction,0.5091
+chal-86,( 50.0 - 20.0 ),30,Subtraction,0.4938
+chal-751,( 66.0 + 126.0 ),192,Addition,0.5091
+chal-355,( 12.0 + 14.0 ),26,Addition,0.4938
+chal-524,( 34.0 / 2.0 ),17,Common-Division,0.4785
+chal-185,( 15.0 - 14.0 ),1,Subtraction,0.4938
+chal-810,( 14.0 + 6.0 ),20,Addition,0.4785
+chal-419,( 104.0 / 26.0 ),4,Common-Division,0.5091
+chal-616,( 7.0 - ( 3.0 + 2.0 ) ),2,Subtraction,0.9265
+chal-683,( 91.0 / 13.0 ),7,Common-Division,0.4938
+chal-502,( 35.0 * ( 4.0 / 2.0 ) ),70,Multiplication,0.937
+chal-761,( ( 19.0 + 4.0 ) * 15.0 ),345,Multiplication,0.9475
+chal-50,( 415.0 - 149.0 ),266,Subtraction,0.5244
+chal-733,( 270.0 / 5.0 ),54,Common-Division,0.4938
+chal-337,( 841.0 - 34.0 ),807,Subtraction,0.5091
+chal-451,( 54.0 / 18.0 ),3,Common-Division,0.4938
+chal-791,( 58.0 - 46.0 ),12,Subtraction,0.4938
+chal-351,( 13.0 - ( 3.0 - 13.0 ) ),23,Subtraction,0.9475
+chal-468,( 67.0 - 36.0 ),31,Subtraction,0.4938
+chal-623,( 610769.0 + 590796.0 ),1201565,Addition,0.616
+chal-477,( 178.0 / 2.0 ),89,Common-Division,0.4938
+chal-615,( 557.0 + 17.0 ),574,Addition,0.5091
+chal-555,8.0,8,Common-Division,0.0
+chal-366,( ( 44.0 + 44.0 ) + 58.0 ),146,Addition,0.958
+chal-771,( ( 14.0 - 4.0 ) - 9.0 ),1,Subtraction,0.937
+chal-631,( 34.0 - 20.0 ),14,Subtraction,0.4938
+chal-941,( 18.0 / 9.0 ),2,Common-Division,0.4785
+chal-798,( 14.0 / 2.0 ),7,Common-Division,0.4785
+chal-497,( 28.0 - 16.0 ),12,Subtraction,0.4938
+chal-925,( 13.0 + 8.0 ),21,Addition,0.4785
+chal-370,( ( 17.0 - 10.0 ) + 7.0 ),14,Addition,0.9475
+chal-597,( 14.0 / 7.0 ),2,Common-Division,0.4785
+chal-721,( 71.0 - 20.0 ),51,Subtraction,0.4938
+chal-54,( 22.0 / 11.0 ),2,Common-Division,0.4938
+chal-427,( 30.0 / 2.0 ),15,Common-Division,0.4785
+chal-57,( 6.0 + 14.0 ),20,Addition,0.4785
+chal-265,( 7.0 - 4.0 ),3,Subtraction,0.4632
+chal-773,( 10.0 - 3.0 ),7,Subtraction,0.4785
+chal-186,( 106.0 - 64.0 ),42,Subtraction,0.5091
+chal-467,( 382.0 + 374.0 ),756,Addition,0.5244
+chal-790,( 42.0 - 31.0 ),11,Subtraction,0.4938
+chal-175,( 8.0 - 3.0 ),5,Subtraction,0.4632
+chal-151,( ( 14.0 - 8.0 ) * 2.0 ),12,Multiplication,0.937
+chal-742,( ( 6.0 + 7.0 ) * 5.0 ),65,Multiplication,0.9265
+chal-114,( 5.0 - 4.0 ),1,Subtraction,0.4632
+chal-429,( 555.0 / 5.0 ),111,Common-Division,0.4938
+chal-966,( 40.0 - 39.0 ),1,Subtraction,0.4938
+chal-19,( 57.0 - 30.0 ),27,Subtraction,0.4938
+chal-190,( 6.0 - 2.0 ),4,Subtraction,0.4632
+chal-415,( 28.0 - 11.0 ),17,Subtraction,0.4938
+chal-590,( 6.0 + 7.0 ),13,Addition,0.4632
+chal-667,( 4.0 + 6.0 ),10,Addition,0.4632
+chal-764,( 308.0 - 231.0 ),77,Subtraction,0.5244
+chal-222,( 78.0 * ( 186.0 - 172.0 ) ),1092,Multiplication,0.979
+chal-587,( ( 16.0 - 21.0 ) + 10.0 ),5,Addition,0.958
+chal-582,( 5.0 + 2.0 ),7,Addition,0.4632
+chal-300,( ( 25.0 + 18.0 ) + 2.0 ),45,Addition,0.9475
+chal-639,( 2.0 + 8.0 ),10,Addition,0.4632
+chal-387,( 26.0 * 2.0 ),52,Multiplication,0.4785
+chal-365,( 5.0 - 3.0 ),2,Subtraction,0.4632
+chal-880,( ( 26.0 - 10.0 ) - 10.0 ),6,Subtraction,0.958
+chal-335,( 10.0 + 6.0 ),16,Addition,0.4785
+chal-17,( 697.0 - 228.0 ),469,Subtraction,0.5244
+chal-203,( 22.0 * 569.0 ),12518,Multiplication,0.5091
+chal-2,( 4.0 - 3.0 ),1,Subtraction,0.4632
+chal-39,( 356.0 / 178.0 ),2,Common-Division,0.5244
+chal-291,( 197.0 - 66.0 ),131,Subtraction,0.5091
+chal-494,( 106.0 - 14.0 ),92,Subtraction,0.5091
+chal-248,( 32.0 * 20.0 ),640,Multiplication,0.4938
+chal-507,( 108.0 - 66.0 ),42,Subtraction,0.5091
+chal-897,( ( 28.0 + 14.0 ) / 6.0 ),7,Common-Division,0.9475
+chal-714,( 97.0 - 72.0 ),25,Subtraction,0.4938
+chal-892,( 8.0 - 7.0 ),1,Subtraction,0.4632
+chal-77,( 4.0 - 2.0 ),2,Subtraction,0.4632
+chal-912,( 158.0 - 147.0 ),11,Subtraction,0.5244
+chal-793,( ( 2.0 + 3.0 ) + 10.0 ),15,Addition,0.937
+chal-509,( 5.0 + 15.0 ),20,Addition,0.4785
+chal-178,( 98.0 * 89.0 ),8722,Multiplication,0.4938
+chal-843,( 120.0 / 24.0 ),5,Common-Division,0.5091
+chal-201,( 4.0 + 79.0 ),83,Addition,0.4785
+chal-766,( 203.0 / 7.0 ),29,Common-Division,0.4938
+chal-910,( 36.0 + 17.0 ),53,Addition,0.4938
+chal-294,( 6.0 - 3.0 ),3,Subtraction,0.4632
+chal-539,( 21.0 + 12.0 ),33,Addition,0.4938
+chal-25,( ( 3.0 + 4.0 ) - 6.0 ),1,Subtraction,0.9265
+chal-695,( 7.0 + 9.0 ),16,Addition,0.4632
+chal-211,( 78.0 - 31.0 ),47,Subtraction,0.4938
+chal-425,( ( 51.0 - 8.0 ) * 130.0 ),5590,Multiplication,0.958
+chal-529,( 10.0 - ( 6.0 + 3.0 ) ),1,Subtraction,0.937
+chal-35,( 10.0 - ( 6.0 + 3.0 ) ),1,Subtraction,0.937
+chal-929,( ( 10.0 * 6.0 ) - 11.0 ),49,Subtraction,0.9475
+chal-399,( ( 35.0 - 13.0 ) - 13.0 ),9,Subtraction,0.958
+chal-608,( 126.0 - 48.0 ),78,Subtraction,0.5091
+chal-299,( ( 17.0 + 15.0 ) + 2.0 ),34,Addition,0.9475
+chal-849,( ( 11.0 - 2.0 ) - 2.0 ),7,Subtraction,0.937
+chal-669,( 92.0 - 68.0 ),24,Subtraction,0.4938
+chal-283,( 13.0 + 21.0 ),34,Addition,0.4938
+chal-940,( 12.0 - 2.0 ),10,Subtraction,0.4785
+chal-945,( 28.0 / 2.0 ),14,Common-Division,0.4785
+chal-607,( 4.0 + 6.0 ),10,Addition,0.4632
+chal-960,( 90.0 / 6.0 ),15,Common-Division,0.4785
+chal-935,( 27.0 * 23.0 ),621,Multiplication,0.4938
+chal-732,( 3.0 - 2.0 ),1,Subtraction,0.4632
+chal-288,( 9.0 - 7.0 ),2,Subtraction,0.4632
+chal-528,( 154.0 / 11.0 ),14,Common-Division,0.5091
+chal-808,( 32.0 / 4.0 ),8,Common-Division,0.4785
+chal-230,( 4.0 / 2.0 ),2,Common-Division,0.4632
+chal-437,( 8.0 + 6.0 ),14,Addition,0.4632
+chal-29,( 40.0 + 49.0 ),89,Addition,0.4938
+chal-375,( 33.0 - 13.0 ),20,Subtraction,0.4938
+chal-820,( 133.0 / 19.0 ),7,Common-Division,0.5091
+chal-317,( 6.0 - 5.0 ),1,Subtraction,0.4632
+chal-561,( ( 6.0 + 7.0 ) + 3.0 ),16,Addition,0.9265
+chal-242,( 81.0 - 60.0 ),21,Subtraction,0.4938
+chal-150,( 16.0 - 13.0 ),3,Subtraction,0.4938
+chal-517,( ( 3.0 + 6.0 ) - 4.0 ),5,Subtraction,0.9265
+chal-418,( 5.0 + 4.0 ),9,Addition,0.4632
+chal-661,( 19.0 * 4.0 ),76,Multiplication,0.4785
+chal-199,( 2.0 * 14.0 ),28,Multiplication,0.4785
+chal-586,( 14.0 + 16.0 ),30,Addition,0.4938
+chal-326,( 38.0 / 2.0 ),19,Common-Division,0.4785
+chal-824,( 36.0 / 18.0 ),2,Common-Division,0.4938
+chal-703,( 39.0 - 17.0 ),22,Subtraction,0.4938
+chal-950,( 23.0 - 16.0 ),7,Subtraction,0.4938
+chal-516,( 28.0 * ( 24.0 / 16.0 ) ),42,Multiplication,0.958
+chal-865,( 33.0 - 19.0 ),14,Subtraction,0.4938
+chal-837,( 288.0 - 264.0 ),24,Subtraction,0.5244
+chal-878,( 31.0 - 23.0 ),8,Subtraction,0.4938
+chal-360,( 9.0 + 18.0 ),27,Addition,0.4785
+chal-595,( ( 25.0 + 32.0 ) - 26.0 ),31,Subtraction,0.958
+chal-789,( 5.0 - 3.0 ),2,Subtraction,0.4632
+chal-189,( 42.0 / 2.0 ),21,Common-Division,0.4785
+chal-67,( 8.0 / 2.0 ),4,Common-Division,0.4632
+chal-356,( 8.0 * 10.0 ),80,Multiplication,0.4785
+chal-800,( 6.0 - 3.0 ),3,Subtraction,0.4632
+chal-903,( 8.0 - 6.0 ),2,Subtraction,0.4632
+chal-921,( 12.0 - 5.0 ),7,Subtraction,0.4785
+chal-943,( 15.0 - 14.0 ),1,Subtraction,0.4938
+chal-331,( ( 79.0 - 24.0 ) - 51.0 ),4,Subtraction,0.958
+chal-728,( 12.0 - ( 21.0 - 13.0 ) ),4,Subtraction,0.958
+chal-397,( 16.0 * 2.0 ),32,Multiplication,0.4785
+chal-464,( 63.0 - 3.0 ),60,Subtraction,0.4785
+chal-394,( 36.0 / 4.0 ),9,Common-Division,0.4785
+chal-312,( ( 100.0 + 148.0 ) - 159.0 ),89,Subtraction,0.9895
+chal-681,( 87.0 + 18.0 ),105,Addition,0.4938
+chal-745,( 21.0 - 4.0 ),17,Subtraction,0.4785
+chal-922,( 44.0 - 39.0 ),5,Subtraction,0.4938
+chal-462,( ( 12.0 - 2.0 ) - 7.0 ),3,Subtraction,0.937
+chal-523,( ( 33.0 - 24.0 ) / 9.0 ),1,Common-Division,0.9475
+chal-632,( 79.0 - 53.0 ),26,Subtraction,0.4938
+chal-491,( 20.0 - 4.0 ),16,Subtraction,0.4785
+chal-196,( 4.0 * 7.0 ),28,Multiplication,0.4632
+chal-257,( 2.0 + 12.0 ),14,Addition,0.4785
+chal-694,( 9.0 - ( 14.0 - 9.0 ) ),4,Subtraction,0.937
+chal-741,( 40.0 / 2.0 ),20,Common-Division,0.4785
+chal-578,( 133.0 - 51.0 ),82,Subtraction,0.5091
+chal-158,( 37.0 - 16.0 ),21,Subtraction,0.4938
+chal-613,( 60.0 - 7.0 ),53,Subtraction,0.4785
+chal-393,( 42.0 - 29.0 ),13,Subtraction,0.4938
+chal-970,( 10.0 / 5.0 ),2,Common-Division,0.4785
+chal-689,( 98.0 / 7.0 ),14,Common-Division,0.4785
+chal-362,( 16.0 / 4.0 ),4,Common-Division,0.4785
+chal-817,( 16.0 - 14.0 ),2,Subtraction,0.4938
+chal-402,( 8.0 - 5.0 ),3,Subtraction,0.4632
+chal-93,( ( 40.0 - 5.0 ) - 13.0 ),22,Subtraction,0.9475
+chal-918,( 528.0 - 252.0 ),276,Subtraction,0.5244
+chal-490,( 54.0 - 29.0 ),25,Subtraction,0.4938
+chal-452,( 25.0 / 5.0 ),5,Common-Division,0.4785
+chal-252,( 144.0 - 79.0 ),65,Subtraction,0.5091
+chal-654,( 8.0 + 6.0 ),14,Addition,0.4632
+chal-770,( 19.0 - 5.0 ),14,Subtraction,0.4785
+chal-671,( 7.0 + 13.0 ),20,Addition,0.4785
+chal-130,( 14.0 - 7.0 ),7,Subtraction,0.4785
+chal-638,( 8.0 / 4.0 ),2,Common-Division,0.4632
+chal-992,( 308.0 + 318.0 ),626,Addition,0.5244
+chal-343,( 4.0 - 3.0 ),1,Subtraction,0.4632
+chal-309,( 56.0 * 39.0 ),2184,Multiplication,0.4938
+chal-137,( 115.0 - 111.0 ),4,Subtraction,0.5244
+chal-89,( 21.0 - 16.0 ),5,Subtraction,0.4938
+chal-328,( 78.0 / 3.0 ),26,Common-Division,0.4785
+chal-476,( 10.0 / ( 4.0 + 6.0 ) ),1,Common-Division,0.937
+chal-982,( 62.0 - 39.0 ),23,Subtraction,0.4938
+chal-851,( 62.0 * 183.0 ),11346,Multiplication,0.5091
+chal-893,( 61.0 - 52.0 ),9,Subtraction,0.4938
+chal-376,( 76.0 * 2.0 ),152,Multiplication,0.4785
+chal-179,( ( 6.0 + 3.0 ) + 5.0 ),14,Addition,0.9265
+chal-27,( 450.0 + 38.0 ),488,Addition,0.5091
+chal-350,( 3.0 + 10.0 ),13,Addition,0.4785
+chal-500,( 180.0 / 15.0 ),12,Common-Division,0.5091
+chal-475,( 612.0 / 6.0 ),102,Common-Division,0.4938
+chal-618,( ( 57.0 + 39.0 ) - 34.0 ),62,Subtraction,0.958
+chal-698,( 10.0 - 7.0 ),3,Subtraction,0.4785
+chal-51,( 97.0 - 40.0 ),57,Subtraction,0.4938
+chal-212,( 25.0 * 14.0 ),350,Multiplication,0.4938
+chal-382,( 20.0 - 19.0 ),1,Subtraction,0.4938
+chal-884,( 53.0 - 14.0 ),39,Subtraction,0.4938
+chal-174,( 17.0 - 9.0 ),8,Subtraction,0.4785
+chal-148,( 628.0 - 159.0 ),469,Subtraction,0.5244
+chal-420,( 20.0 - 12.0 ),8,Subtraction,0.4938
+chal-962,( 108.0 * 58.0 ),6264,Multiplication,0.5091
+chal-149,( 576.0 / 8.0 ),72,Common-Division,0.4938
+chal-976,( 20.0 + 14.0 ),34,Addition,0.4938
+chal-80,( 215.0 * 20.0 ),4300,Multiplication,0.5091
+chal-776,( 12.0 * 35.0 ),420,Multiplication,0.4938
+chal-303,( 13.0 + 12.0 ),25,Addition,0.4938
+chal-996,( 36.0 / 12.0 ),3,Common-Division,0.4938
+chal-526,( 38.0 / 19.0 ),2,Common-Division,0.4938
+chal-775,( 12.0 + 9.0 ),21,Addition,0.4785
+chal-232,( 8.0 * 35.0 ),280,Multiplication,0.4785
+chal-626,( ( 14.0 - 20.0 ) + 8.0 ),2,Addition,0.9475
+chal-801,( 4.0 - ( 3.0 - 4.0 ) ),5,Subtraction,0.9265
+chal-562,( 6.0 - 2.0 ),4,Subtraction,0.4632
+chal-510,( 37.0 - 15.0 ),22,Subtraction,0.4938
+chal-841,( 7.0 - 2.0 ),5,Subtraction,0.4632
+chal-495,( 17.0 - 13.0 ),4,Subtraction,0.4938
+chal-120,( 27.0 - 5.0 ),22,Subtraction,0.4785
+chal-478,( 54.0 - 48.0 ),6,Subtraction,0.4938
+chal-145,( 257.0 - 120.0 ),137,Subtraction,0.5244
+chal-30,( 4.0 / 2.0 ),2,Common-Division,0.4632
+chal-911,( 28.0 * 4.0 ),112,Multiplication,0.4785
+chal-122,( ( 19.0 + 237.0 ) - 231.0 ),25,Subtraction,0.979
+chal-606,( 61.0 + 177.0 ),238,Addition,0.5091
+chal-62,( 6.0 / 3.0 ),2,Common-Division,0.4632
+chal-872,( 11.0 * 9.0 ),99,Multiplication,0.4785
+chal-573,( 34.0 - 15.0 ),19,Subtraction,0.4938
+chal-6,( 49.0 - 3.0 ),46,Subtraction,0.4785
+chal-927,( 24.0 - 17.0 ),7,Subtraction,0.4938
+chal-640,( 11.0 - 8.0 ),3,Subtraction,0.4785
+chal-440,( 7.0 - 2.0 ),5,Subtraction,0.4632
+chal-730,( 23.0 - 10.0 ),13,Subtraction,0.4938
+chal-194,( 40.0 - 19.0 ),21,Subtraction,0.4938
+chal-753,( 376.0 - 111.0 ),265,Subtraction,0.5244
+chal-627,( 16.0 + 6.0 ),22,Addition,0.4785
+chal-572,( ( 134.0 - 39.0 ) - 68.0 ),27,Subtraction,0.9685
+chal-18,( 732.0 + 682.0 ),1414,Addition,0.5244
+chal-743,( ( 6.0 - 2.0 ) + 7.0 ),11,Addition,0.9265
+chal-915,( ( 87.0 - 7.0 ) - 7.0 ),73,Subtraction,0.937
+chal-511,( 10.0 / 5.0 ),2,Common-Division,0.4785
+chal-574,( 95.0 * 118.0 ),11210,Multiplication,0.5091
+chal-139,( 8.0 / 4.0 ),2,Common-Division,0.4632
+chal-192,( 20.0 / 2.0 ),10,Common-Division,0.4785
+chal-5,( 30.0 - 28.0 ),2,Subtraction,0.4938
+chal-444,( ( 17.0 - 7.0 ) - 8.0 ),2,Subtraction,0.937
+chal-21,( ( 121.0 - 105.0 ) + 170.0 ),186,Addition,0.9895
+chal-214,( 21.0 - 2.0 ),19,Subtraction,0.4785
+chal-65,( 149.0 - 10.0 ),139,Subtraction,0.5091
+chal-412,( 9.0 - 2.0 ),7,Subtraction,0.4632
+chal-302,( ( 14.0 - 5.0 ) - 6.0 ),3,Subtraction,0.937
+chal-334,( ( 23.0 + 4.0 ) - 2.0 ),25,Subtraction,0.937
+chal-193,( 14.0 - ( 4.0 * 3.0 ) ),2,Subtraction,0.937
+chal-665,( 240.0 - 210.0 ),30,Subtraction,0.5244
+chal-263,( 89.0 - 63.0 ),26,Subtraction,0.4938
+chal-648,( 666.0 - 100.0 ),566,Subtraction,0.5244
+chal-811,( 13.0 + 8.0 ),21,Addition,0.4785
+chal-233,( 16.0 - 8.0 ),8,Subtraction,0.4785
+chal-796,( 167.0 - 108.0 ),59,Subtraction,0.5244
+chal-682,( 67.0 - 35.0 ),32,Subtraction,0.4938
+chal-805,( 131.0 - 19.0 ),112,Subtraction,0.5091
+chal-483,( ( 53.0 + 181.0 ) * 466.0 ),109044,Multiplication,0.979
+chal-361,( 51.0 - 44.0 ),7,Subtraction,0.4938
+chal-839,( 85.0 - ( 23.0 + 37.0 ) ),25,Subtraction,0.958
+chal-237,( 397.0 + 85.0 ),482,Addition,0.5091
+chal-628,( 34044.0 + 424944.0 ),458988,Addition,0.6008
+chal-958,( 21.0 / 3.0 ),7,Common-Division,0.4785
+chal-583,( ( 8.0 + 8.0 ) - 3.0 ),13,Subtraction,0.9265
+chal-273,( 4.0 * 12.0 ),48,Multiplication,0.4785
+chal-202,( 60.0 / 10.0 ),6,Common-Division,0.4938
+chal-14,( ( 4.0 + 13.0 ) * 15.0 ),255,Multiplication,0.9475
+chal-428,( 10.0 + 8.0 ),18,Addition,0.4785
+chal-240,( ( 51.0 + 22.0 ) - 4.0 ),69,Subtraction,0.9475
+chal-85,( 4.0 * 5.0 ),20,Multiplication,0.4632
+chal-533,( 17.0 - 16.0 ),1,Subtraction,0.4938
+chal-173,( 26.0 * 33.0 ),858,Multiplication,0.4938
+chal-290,( 557.0 + 188.0 ),745,Addition,0.5244
+chal-486,( 65.0 * 6.0 ),390,Multiplication,0.4785
+chal-330,( 71.0 - 60.0 ),11,Subtraction,0.4938
+chal-684,( 17.0 - 13.0 ),4,Subtraction,0.4938
+chal-319,( ( 4.0 + 2.0 ) - 3.0 ),3,Subtraction,0.9265
+chal-455,( 7.0 - 6.0 ),1,Subtraction,0.4632
+chal-250,( 2.0 * 7.0 ),14,Multiplication,0.4632
+chal-847,( ( 28.0 + 52.0 ) * 26.0 ),2080,Multiplication,0.958
+chal-280,( 18.0 / 6.0 ),3,Common-Division,0.4785
+chal-456,( 4.0 + 6.0 ),10,Addition,0.4632
+chal-902,( ( 9.0 - 4.0 ) + 5.0 ),10,Addition,0.9265
+chal-762,( 5.0 - 2.0 ),3,Subtraction,0.4632
+chal-548,( 95.0 - 64.0 ),31,Subtraction,0.4938
+chal-181,( ( 13.0 * 17.0 ) + 8.0 ),229,Addition,0.9475
+chal-558,( 54.0 - 13.0 ),41,Subtraction,0.4938
+chal-629,( 97.0 - 8.0 ),89,Subtraction,0.4785
+chal-424,( 457.0 - 63.0 ),394,Subtraction,0.5091
+chal-844,( 56.0 / 4.0 ),14,Common-Division,0.4785
+chal-11,( 6.0 - ( 3.0 + 2.0 ) ),1,Subtraction,0.9265
+chal-200,( 360.0 / 9.0 ),40,Common-Division,0.4938
+chal-426,( ( 3.0 + 4.0 ) - 5.0 ),2,Subtraction,0.9265
+chal-535,( ( 573.0 - 195.0 ) - 210.0 ),168,Subtraction,0.9895
+chal-32,( 17.0 - 15.0 ),2,Subtraction,0.4938
+chal-580,( 128.0 - 38.0 ),90,Subtraction,0.5091
+chal-405,( 32.0 - 23.0 ),9,Subtraction,0.4938
+chal-278,( 10.0 / 2.0 ),5,Common-Division,0.4785
+chal-445,( 14.0 - 6.0 ),8,Subtraction,0.4785
+chal-772,( 82.0 * 25.0 ),2050,Multiplication,0.4938
+chal-373,( ( 2.0 + 4.0 ) - 3.0 ),3,Subtraction,0.9265
+chal-723,( 21.0 - 7.0 ),14,Subtraction,0.4785
+chal-401,( 19.0 - 11.0 ),8,Subtraction,0.4938
+chal-79,( 11.0 - 9.0 ),2,Subtraction,0.4785
+chal-538,( 19.0 - 12.0 ),7,Subtraction,0.4938
+chal-576,( 12.0 / 3.0 ),4,Common-Division,0.4785
+chal-549,( 18.0 / 6.0 ),3,Common-Division,0.4785
+chal-711,( 9.0 - 7.0 ),2,Subtraction,0.4632
+chal-42,( 50.0 - 46.0 ),4,Subtraction,0.4938
+chal-886,( 15.0 - 5.0 ),10,Subtraction,0.4785
+chal-633,( 12.0 / 3.0 ),4,Common-Division,0.4785
+chal-859,( ( 23.0 + 61.0 ) * 29.0 ),2436,Multiplication,0.958
+chal-140,( 19.0 - 3.0 ),16,Subtraction,0.4785
+chal-386,( 5.0 - ( 14.0 - 11.0 ) ),2,Subtraction,0.9475
+chal-457,( 28.0 - 7.0 ),21,Subtraction,0.4785
+chal-933,( ( 2.0 + 150.0 ) - 58.0 ),94,Subtraction,0.958
+chal-814,( 93.0 - 60.0 ),33,Subtraction,0.4938
+chal-141,( 23.0 - 8.0 ),15,Subtraction,0.4785
+chal-625,( 5.0 - 2.0 ),3,Subtraction,0.4632
+chal-321,( 15.0 - 6.0 ),9,Subtraction,0.4785
+chal-709,( 2.0 + 7.0 ),9,Addition,0.4632
+chal-458,( 8.0 / 2.0 ),4,Common-Division,0.4632
+chal-874,( ( 105.0 + 71.0 ) - 137.0 ),39,Subtraction,0.979
+chal-327,( 20.0 - 7.0 ),13,Subtraction,0.4785
+chal-127,( 70.0 / 14.0 ),5,Common-Division,0.4938
+chal-133,( ( 22.0 + 40.0 ) - 2.0 ),60,Subtraction,0.9475
+chal-818,( 169.0 - 137.0 ),32,Subtraction,0.5244
+chal-398,( 18.0 - 8.0 ),10,Subtraction,0.4785
+chal-916,( 485.0 - 232.0 ),253,Subtraction,0.5244
+chal-994,( 84.0 / 2.0 ),42,Common-Division,0.4785
+chal-416,( 15.0 - 12.0 ),3,Subtraction,0.4938
+chal-596,( ( 76.0 - 64.0 ) * 50.0 ),600,Multiplication,0.958
+chal-259,( 8.0 + 32.0 ),40,Addition,0.4785
+chal-314,( 81.0 - 59.0 ),22,Subtraction,0.4938
+chal-410,( 154.0 + 301.0 ),455,Addition,0.5244
+chal-163,( 28.0 - 15.0 ),13,Subtraction,0.4938
+chal-305,( 5.0 + 9.0 ),14,Addition,0.4632
+chal-287,( 571.0 - 161.0 ),410,Subtraction,0.5244
+chal-645,( 32.0 - 20.0 ),12,Subtraction,0.4938
+chal-636,( 31.0 * 6.0 ),186,Multiplication,0.4785
+chal-354,( 66.0 * 28.0 ),1848,Multiplication,0.4938
+chal-69,( 11.0 * 2.0 ),22,Multiplication,0.4785
+chal-679,( ( 23.0 - 11.0 ) / 2.0 ),6,Common-Division,0.9475
+chal-834,( 22.0 - 12.0 ),10,Subtraction,0.4938
+chal-936,( 391.0 - 38.0 ),353,Subtraction,0.5091
+chal-680,( ( 4.0 - 2.0 ) + 3.0 ),1,Addition,0.9265
+chal-720,( 84.0 - 52.0 ),32,Subtraction,0.4938
+chal-238,( 2.0 + 6.0 ),8,Addition,0.4632
+chal-266,( ( 43.0 * 23.0 ) + 8.0 ),997,Addition,0.9475
+chal-91,( 6.0 - 5.0 ),1,Subtraction,0.4632
+chal-836,( ( 57.0 + 26.0 ) + 27.0 ),110,Addition,0.958
+chal-863,( 12.0 / 2.0 ),6,Common-Division,0.4785
+chal-55,( 14.0 + 10.0 ),24,Addition,0.4938
+chal-658,( 9.0 + 10.0 ),19,Addition,0.4785
+chal-944,( 82.0 - 79.0 ),3,Subtraction,0.4938
+chal-407,( 18.0 - 10.0 ),8,Subtraction,0.4938
+chal-381,( 450.0 / 30.0 ),15,Common-Division,0.5091
+chal-125,( 14.0 - ( 12.0 - 10.0 ) ),12,Subtraction,0.958
+chal-492,( 15.0 - 7.0 ),8,Subtraction,0.4785
+chal-803,( 5.0 + 6.0 ),11,Addition,0.4632
+chal-901,( 20.0 - 17.0 ),3,Subtraction,0.4938
+chal-431,( 9.0 - 3.0 ),6,Subtraction,0.4632
+chal-946,( 57.0 - 31.0 ),26,Subtraction,0.4938
+chal-704,( 151.0 - 50.0 ),101,Subtraction,0.5091
+chal-295,( 48.0 - 11.0 ),37,Subtraction,0.4938
+chal-879,( 6.0 * 12.0 ),72,Multiplication,0.4785
+chal-213,( 17.0 * 4.0 ),68,Multiplication,0.4785
+chal-919,( ( 102.0 - 22.0 ) / 8.0 ),10,Common-Division,0.958
+chal-38,( 7.0 - 5.0 ),2,Subtraction,0.4632
+chal-861,( 148.0 - 103.0 ),45,Subtraction,0.5244
+chal-899,( 5.0 + 8.0 ),13,Addition,0.4632
+chal-126,( 140.0 - 22.0 ),118,Subtraction,0.5091
+chal-24,( 5.0 - 4.0 ),1,Subtraction,0.4632
+chal-840,( 902.0 + 44.0 ),946,Addition,0.5091
+chal-977,( 492.0 / 12.0 ),41,Common-Division,0.5091
+chal-102,( 19.0 - 11.0 ),8,Subtraction,0.4938
+chal-116,( 160.0 - 56.0 ),104,Subtraction,0.5091
+chal-436,( 36.0 / 12.0 ),3,Common-Division,0.4938
+chal-951,( 19.0 + 39.0 ),58,Addition,0.4938
+chal-121,( 7.0 - 4.0 ),3,Subtraction,0.4632
+chal-385,( 120.0 / 20.0 ),6,Common-Division,0.5091
+chal-48,( ( 8.0 + 10.0 ) - 7.0 ),11,Subtraction,0.937
+chal-172,( 30.0 / 5.0 ),6,Common-Division,0.4785
+chal-318,( 18.0 - 4.0 ),14,Subtraction,0.4785
+chal-325,( ( 6.0 + 16.0 ) + 19.0 ),41,Addition,0.9475
+chal-881,( 7.0 - 4.0 ),3,Subtraction,0.4632
+chal-264,( 3.0 - 2.0 ),1,Subtraction,0.4632
+chal-146,( 214.0 + 910.0 ),1124,Addition,0.5244
+chal-44,( ( 3.0 + 2.0 ) - 4.0 ),1,Subtraction,0.9265
+chal-505,( 34.0 + 18.0 ),52,Addition,0.4938
+chal-87,( 6.0 - ( 2.0 + 3.0 ) ),1,Subtraction,0.9265
+chal-377,( 145.0 - 139.0 ),6,Subtraction,0.5244
+chal-531,( 11.0 - 8.0 ),3,Subtraction,0.4785
+chal-985,( ( 28.0 + 939.0 ) * 1091.0 ),1054997,Multiplication,0.9895
+chal-852,( 37.0 - 30.0 ),7,Subtraction,0.4938
+chal-346,( 5.0 + 12.0 ),17,Addition,0.4785
+chal-404,( 16.0 - 5.0 ),11,Subtraction,0.4785
+chal-227,( 28.0 / 2.0 ),14,Common-Division,0.4785
+chal-988,( 3.0 + 2.0 ),5,Addition,0.4632
+chal-165,( 115.0 - 78.0 ),37,Subtraction,0.5091
+chal-336,( 7.0 - ( 2.0 + 4.0 ) ),1,Subtraction,0.9265
+chal-601,( 4.0 - 2.0 ),2,Subtraction,0.4632
+chal-917,( 134.0 - 11.0 ),123,Subtraction,0.5091
+chal-473,( 15.0 / 5.0 ),3,Common-Division,0.4785
+chal-448,( 3.0 - 2.0 ),1,Subtraction,0.4632
+chal-108,( 141.0 * 71.0 ),10011,Multiplication,0.5091
+chal-857,( 264.0 - ( 15.0 * 11.0 ) ),99,Subtraction,0.9685
+chal-156,( 10.0 / 2.0 ),5,Common-Division,0.4785
+chal-459,( ( 41.0 + 26.0 ) + 4.0 ),71,Addition,0.9475
+chal-281,( ( 9.0 + 62.0 ) + 140.0 ),211,Addition,0.958
+chal-208,( 5.0 - 4.0 ),1,Subtraction,0.4632
+chal-155,( 6.0 - 4.0 ),2,Subtraction,0.4632
+chal-588,( ( 62.0 - 144.0 ) + 149.0 ),67,Addition,0.979
+chal-758,( 86.0 - 41.0 ),45,Subtraction,0.4938
+chal-986,( 11.0 - 3.0 ),8,Subtraction,0.4785
+chal-384,( 406.0 - 336.0 ),70,Subtraction,0.5244
+chal-802,( 14.0 + 8.0 ),22,Addition,0.4785
+chal-649,( ( 23.0 - 15.0 ) / 4.0 ),2,Common-Division,0.9475
+chal-807,( 18.0 + 14.0 ),32,Addition,0.4938
+chal-537,( ( 49.0 - 59.0 ) + 24.0 ),14,Addition,0.958
+chal-504,( 19.0 - 2.0 ),17,Subtraction,0.4785
+chal-738,( 7.0 - 5.0 ),2,Subtraction,0.4632
+chal-560,( 79.0 - ( 14.0 + 11.0 ) ),54,Subtraction,0.958
+chal-545,( 36.0 - 35.0 ),1,Subtraction,0.4938
+chal-357,( 24.0 - ( 3.0 + 9.0 ) ),12,Subtraction,0.937
+chal-207,( 8.0 + 3.0 ),11,Addition,0.4632
+chal-889,( ( 5.0 * 10.0 ) - 5.0 ),45,Subtraction,0.937
+chal-612,( 440.0 - ( 111.0 + 106.0 ) ),223,Subtraction,0.9895
+chal-712,( 60.0 - 19.0 ),41,Subtraction,0.4938
+chal-532,( ( 11.0 * 15.0 ) - 16.0 ),149,Subtraction,0.958
+chal-260,( 91.0 + 92.0 ),183,Addition,0.4938
+chal-154,( 19.0 - ( 4.0 - 19.0 ) ),34,Subtraction,0.9475
+chal-853,( 30.0 - ( 47.0 - 30.0 ) ),13,Subtraction,0.958
+chal-64,( ( 11.0 - 7.0 ) - 2.0 ),2,Subtraction,0.937
+chal-435,( 28.0 / 7.0 ),4,Common-Division,0.4785
+chal-340,( 53.0 - 49.0 ),4,Subtraction,0.4938
+chal-514,( 43.0 - 27.0 ),16,Subtraction,0.4938
+chal-749,( 7.0 - ( 2.0 + 3.0 ) ),2,Subtraction,0.9265
+chal-488,( 153.0 / 17.0 ),9,Common-Division,0.5091
+chal-525,( 8.0 - 3.0 ),5,Subtraction,0.4632
+chal-894,( 14.0 - 13.0 ),1,Subtraction,0.4938
+chal-953,( 406.0 - 132.0 ),274,Subtraction,0.5244
+chal-187,( ( 15.0 - 10.0 ) / 5.0 ),1,Common-Division,0.9475
+chal-674,( ( 18.0 - 10.0 ) * 15.0 ),120,Multiplication,0.958
+chal-344,( 80.0 - 37.0 ),43,Subtraction,0.4938
+chal-378,( 8.0 - 7.0 ),1,Subtraction,0.4632
+chal-904,( 12.0 - 11.0 ),1,Subtraction,0.4938
+chal-369,( 4.0 + 3.0 ),7,Addition,0.4632
+chal-569,( 9.0 + 11.0 ),20,Addition,0.4785
+chal-276,( ( 7.0 - 2.0 ) - 4.0 ),1,Subtraction,0.9265
+chal-691,( 4.0 * 6.0 ),24,Multiplication,0.4632
+chal-267,( ( 108.0 - 35.0 ) - 62.0 ),11,Subtraction,0.9685
+chal-783,( ( 6.0 + 2.0 ) + 4.0 ),12,Addition,0.9265
+chal-938,( ( 10.0 + 11.0 ) - 4.0 ),17,Subtraction,0.9475
+chal-534,( ( 67.0 + 60.0 ) - 58.0 ),69,Subtraction,0.958
+chal-23,( 180.0 / 18.0 ),10,Common-Division,0.5091
+chal-543,( 53.0 + 14.0 ),67,Addition,0.4938
+chal-98,( 10.0 + 20.0 ),30,Addition,0.4938
+chal-296,( 6.0 - 2.0 ),4,Subtraction,0.4632
+chal-461,( 19.0 + 39.0 ),58,Addition,0.4938
+chal-198,( 30.0 - 28.0 ),2,Subtraction,0.4938
+chal-708,( 8.0 - 4.0 ),4,Subtraction,0.4632
+chal-262,( 230.0 / 23.0 ),10,Common-Division,0.5091
+chal-311,( 31.0 + 35.0 ),66,Addition,0.4938
+chal-980,( ( 81.0 + 92.0 ) - 46.0 ),127,Subtraction,0.958
+chal-161,( 32.0 / 2.0 ),16,Common-Division,0.4785
+chal-403,( 420.0 / 30.0 ),14,Common-Division,0.5091
+chal-540,( ( 15.0 + 62.0 ) * 19.0 ),1463,Multiplication,0.958
+chal-177,( 12.0 - 4.0 ),8,Subtraction,0.4785
+chal-727,( 90.0 + 484.0 ),574,Addition,0.5091
+chal-794,( 6.0 - 3.0 ),3,Subtraction,0.4632
+chal-819,( ( 5.0 + 7.0 ) - 9.0 ),3,Subtraction,0.9265
+chal-779,( 17.0 - 5.0 ),12,Subtraction,0.4785
+chal-757,( 16.0 - 12.0 ),4,Subtraction,0.4938
+chal-298,( 676.0 - 22.0 ),654,Subtraction,0.5091
+chal-92,( 408.0 - 42.0 ),366,Subtraction,0.5091
+chal-930,( ( 512.0 + 471.0 ) + 808.0 ),1791,Addition,0.9895
+chal-450,( ( 38.0 + 36.0 ) - 16.0 ),58,Subtraction,0.958
+chal-646,( 40.0 - 8.0 ),32,Subtraction,0.4785
+chal-15,( 6.0 + 4.0 ),10,Addition,0.4632
+chal-481,( 165.0 * 156.0 ),25740,Multiplication,0.5244
+chal-997,( 75.0 - 19.0 ),56,Subtraction,0.4938
+chal-869,( 12.0 - 9.0 ),3,Subtraction,0.4785
+chal-432,( 93.0 / ( 107.0 - 106.0 ) ),93,Common-Division,0.979
+chal-696,( 24.0 - 2.0 ),22,Subtraction,0.4785
+chal-503,( ( 19.0 * 15.0 ) * 20.0 ),5700,Multiplication,0.958
+chal-261,( 242.0 - 115.0 ),127,Subtraction,0.5244
+chal-329,( 154.0 - 91.0 ),63,Subtraction,0.5091
+chal-180,( 18.0 - 5.0 ),13,Subtraction,0.4785
+chal-565,( 16.0 - 14.0 ),2,Subtraction,0.4938
+chal-396,( ( 706.0 + 222.0 ) + 418.0 ),1346,Addition,0.9895
+chal-496,( 42.0 - 19.0 ),23,Subtraction,0.4938
+chal-36,( ( 4.0 - 8.0 ) + 5.0 ),1,Addition,0.9265
+chal-443,( 244.0 * 146.0 ),35624,Multiplication,0.5244
+chal-928,( 25.0 + 16.0 ),41,Addition,0.4938
+chal-660,( 6.0 - ( 2.0 + 3.0 ) ),1,Subtraction,0.9265
+chal-637,( 13.0 - 10.0 ),3,Subtraction,0.4938
+chal-99,( 112.0 / 16.0 ),7,Common-Division,0.5091
+chal-338,( 43.0 - 25.0 ),18,Subtraction,0.4938
+chal-13,( ( 692.0 + 692.0 ) - 458.0 ),926,Subtraction,0.9895
+chal-685,( 56.0 - 29.0 ),27,Subtraction,0.4938
+chal-117,( 400.0 / 40.0 ),10,Common-Division,0.5091
+chal-447,( 10.0 / 2.0 ),5,Common-Division,0.4785
+chal-408,( 132.0 - 31.0 ),101,Subtraction,0.5091
+chal-816,( 4.0 + 13.0 ),17,Addition,0.4785
+chal-313,( ( 11.0 - 3.0 ) - 3.0 ),5,Subtraction,0.937
+chal-359,( 94.0 - 47.0 ),47,Subtraction,0.4938
+chal-472,( 896.0 / 8.0 ),112,Common-Division,0.4938
+chal-205,( 6.0 - ( 2.0 + 3.0 ) ),1,Subtraction,0.9265
+chal-228,( ( 14.0 + 21.0 ) / 7.0 ),5,Common-Division,0.9475
+chal-482,( 12.0 * 5.0 ),60,Multiplication,0.4785
+chal-40,( 19.0 - 16.0 ),3,Subtraction,0.4938
+chal-392,( 19.0 + 18.0 ),37,Addition,0.4938
+chal-111,( 52.0 / 26.0 ),2,Common-Division,0.4938
+chal-833,( 6.0 - ( 3.0 + 2.0 ) ),1,Subtraction,0.9265
+chal-813,( 16.0 - 15.0 ),1,Subtraction,0.4938
+chal-963,( 829.0 - 45.0 ),784,Subtraction,0.5091
+chal-422,( 8.0 - 7.0 ),1,Subtraction,0.4632
+chal-341,( 5.0 - 3.0 ),2,Subtraction,0.4632
+chal-184,( 14.0 * 30.0 ),420,Multiplication,0.4938
+chal-998,( 60.0 * ( 55.0 / 15.0 ) ),220,Multiplication,0.958
+chal-423,( 4950.0 / 495.0 ),10,Common-Division,0.5396
+chal-182,( 83.0 - 54.0 ),29,Subtraction,0.4938
+chal-905,( 9.0 - ( 6.0 - 4.0 ) ),7,Subtraction,0.9265
+chal-862,( 14.0 - 13.0 ),1,Subtraction,0.4938
+chal-650,( 22.0 / 11.0 ),2,Common-Division,0.4938
+chal-746,( ( 173.0 - 86.0 ) + 103.0 ),190,Addition,0.979
+chal-701,( 6.0 - 2.0 ),4,Subtraction,0.4632
+chal-106,( 16.0 * 6.0 ),96,Multiplication,0.4785
+chal-920,( 4.0 / 2.0 ),2,Common-Division,0.4632
+chal-652,( 11.0 - ( 9.0 - 4.0 ) ),6,Subtraction,0.937
+chal-367,( 460.0 / 5.0 ),92,Common-Division,0.4938
+chal-620,( 21.0 + 7.0 ),28,Addition,0.4785
+chal-906,( ( 2.0 * 12.0 ) / 4.0 ),6,Common-Division,0.937
+chal-316,( 90.0 / 5.0 ),18,Common-Division,0.4785
+chal-43,( 177.0 * 46.0 ),8142,Multiplication,0.5091
+chal-131,( 20.0 - 11.0 ),9,Subtraction,0.4938
+chal-441,( 88.0 + 53.0 ),141,Addition,0.4938
+chal-152,( ( 544.0 * 10 ) * 32.0 ),174080,Multiplication,0.957
+chal-589,( 315.0 + 291.0 ),606,Addition,0.5244
+chal-37,( 246.0 + 703.0 ),949,Addition,0.5244
+chal-153,( 10.0 * 45.0 ),450,Multiplication,0.4938
+chal-677,( 19.0 - 4.0 ),15,Subtraction,0.4785
+chal-961,( 84.0 + 8.0 ),92,Addition,0.4785
+chal-602,( 28.0 + 42.0 ),70,Addition,0.4938
+chal-438,( 6.0 + 2.0 ),8,Addition,0.4632
+chal-453,( 8.0 - 5.0 ),3,Subtraction,0.4632
+chal-786,( 35.0 / 5.0 ),7,Common-Division,0.4785
+chal-269,( 81.0 / 3.0 ),27,Common-Division,0.4785
+chal-134,( 13.0 - 12.0 ),1,Subtraction,0.4938
+chal-342,( 4.0 / 2.0 ),2,Common-Division,0.4632
+chal-804,( 10.0 - 8.0 ),2,Subtraction,0.4785
+chal-46,( 35.0 - 3.0 ),32,Subtraction,0.4785
+chal-284,( ( 9.0 + 7.0 ) - 10.0 ),6,Subtraction,0.937
+chal-653,( 92.0 / 46.0 ),2,Common-Division,0.4938
+chal-949,( 157.0 * 146.0 ),22922,Multiplication,0.5244
+chal-53,( 20.0 / 5.0 ),4,Common-Division,0.4785
+chal-822,( 16.0 + 74.0 ),90,Addition,0.4938
+chal-780,( 22.0 * 46.0 ),1012,Multiplication,0.4938
+chal-978,( 58.0 - 33.0 ),25,Subtraction,0.4938
+chal-600,( ( 10.0 * 7.0 ) - 2.0 ),68,Subtraction,0.937
+chal-209,( ( 2.0 + 5.0 ) - 4.0 ),3,Subtraction,0.9265
+chal-352,( 9.0 - 4.0 ),5,Subtraction,0.4632
+chal-216,( 14.0 - 2.0 ),12,Subtraction,0.4785
+chal-289,( 8.0 - 6.0 ),2,Subtraction,0.4632
+chal-279,( 140.0 * 187.0 ),26180,Multiplication,0.5244
+chal-954,( 29.0 - 26.0 ),3,Subtraction,0.4938
+chal-821,( 137.0 + 105.0 ),242,Addition,0.5244
+chal-110,( 58.0 - 35.0 ),23,Subtraction,0.4938
+chal-119,( 489.0 - 479.0 ),10,Subtraction,0.5244
+chal-942,( 18.0 + 5.0 ),23,Addition,0.4785
+chal-138,( 9.0 * 20.0 ),180,Multiplication,0.4785
+chal-107,( 828521.0 - 800059.0 ),28462,Subtraction,0.616
+chal-307,( 19.0 - 14.0 ),5,Subtraction,0.4938
+chal-973,( 53.0 - 21.0 ),32,Subtraction,0.4938
+chal-9,( 10.0 - 6.0 ),4,Subtraction,0.4785
+chal-823,( 14.0 / 7.0 ),2,Common-Division,0.4785
+chal-310,( ( 10.0 + 3.0 ) + 7.0 ),20,Addition,0.937
+chal-557,( 21.0 - ( 5.0 + 9.0 ) ),7,Subtraction,0.937
+chal-744,( ( 8.0 + 12.0 ) - 3.0 ),17,Subtraction,0.937
+chal-635,( 22.0 + 20.0 ),42,Addition,0.4938
+chal-292,( 19.0 - 13.0 ),6,Subtraction,0.4938
+chal-379,( 15.0 - 12.0 ),3,Subtraction,0.4938
+chal-890,( 13.0 * 16.0 ),208,Multiplication,0.4938
+chal-630,( 12.0 - 2.0 ),10,Subtraction,0.4785
+chal-358,( 13.0 - 2.0 ),11,Subtraction,0.4785
+chal-713,( 18.0 - 3.0 ),15,Subtraction,0.4785
+chal-621,( 6.0 - 4.0 ),2,Subtraction,0.4632
+chal-519,( 120.0 / 6.0 ),20,Common-Division,0.4938
+chal-663,( 17.0 - 12.0 ),5,Subtraction,0.4938
+chal-551,( ( 41.0 - 6.0 ) / 7.0 ),5,Common-Division,0.937
+chal-76,( 53.0 * 41.0 ),2173,Multiplication,0.4938
+chal-103,( ( 3.0 + 4.0 ) - 6.0 ),1,Subtraction,0.9265
+chal-577,( ( 15.0 + 18.0 ) - 7.0 ),26,Subtraction,0.9475
+chal-858,( 34.0 - 10.0 ),24,Subtraction,0.4938
+chal-10,( 9.0 + 12.0 ),21,Addition,0.4785
+chal-75,( 218.0 + 351.0 ),569,Addition,0.5244
+chal-952,( 5.0 + 11.0 ),16,Addition,0.4785
+chal-469,( 9.0 - ( 3.0 * 2.0 ) ),3,Subtraction,0.9265
+chal-308,( ( 301.0 - 157.0 ) / 144.0 ),1,Common-Division,0.9895
+chal-135,( 11.0 * 28.0 ),308,Multiplication,0.4938
+chal-860,( 7.0 * 30.0 ),210,Multiplication,0.4785
+chal-885,( 6.0 / 2.0 ),3,Common-Division,0.4632
+chal-245,( 19.0 - 8.0 ),11,Subtraction,0.4785
+chal-642,( ( 4.0 + 22.0 ) + 16.0 ),42,Addition,0.9475
+chal-210,( 30.0 - 23.0 ),7,Subtraction,0.4938
+chal-268,( 12.0 + 17.0 ),29,Addition,0.4938
+chal-871,( 18.0 - 8.0 ),10,Subtraction,0.4785
+chal-536,( 492.0 - 11.0 ),481,Subtraction,0.5091
+chal-579,( 18.0 / 2.0 ),9,Common-Division,0.4785
+chal-846,( 6.0 - ( 2.0 + 3.0 ) ),1,Subtraction,0.9265
+chal-969,( ( 13.0 + 10.0 ) + 15.0 ),38,Addition,0.958
+chal-84,( ( 632.0 + 465.0 ) - 410.0 ),687,Subtraction,0.9895
+chal-41,( 12.0 - 2.0 ),10,Subtraction,0.4785
+chal-609,( 12.0 - 7.0 ),5,Subtraction,0.4785
+chal-593,( 42.0 / 3.0 ),14,Common-Division,0.4785
+chal-854,( 16.0 * 6.0 ),96,Multiplication,0.4785
+chal-584,( 7.0 - 3.0 ),4,Subtraction,0.4632
+chal-123,( 8.0 - 4.0 ),4,Subtraction,0.4632
+chal-414,( 16.0 - 8.0 ),8,Subtraction,0.4785
+chal-241,( 300.0 - 280.0 ),20,Subtraction,0.5244
+chal-724,( 33.0 / 11.0 ),3,Common-Division,0.4938
+chal-610,( 30.0 + 8.0 ),38,Addition,0.4785
+chal-767,( 20.0 - 6.0 ),14,Subtraction,0.4785
+chal-191,( 154.0 - 78.0 ),76,Subtraction,0.5091
+chal-83,( 6.0 - 4.0 ),2,Subtraction,0.4632
+chal-521,( ( 73.0 + 724.0 ) + 744.0 ),1541,Addition,0.979
+chal-877,( 20.0 / 4.0 ),5,Common-Division,0.4785
+chal-806,( 7.0 - 5.0 ),2,Subtraction,0.4632
+chal-784,( 392.0 / 14.0 ),28,Common-Division,0.5091
+chal-515,( 10.0 + 4.0 ),14,Addition,0.4785
+chal-489,( 45.0 * 9.0 ),405,Multiplication,0.4785
+chal-848,( 6.0 + 4.0 ),10,Addition,0.4632
+chal-673,( 30.0 - 23.0 ),7,Subtraction,0.4938
+chal-59,( 13.0 - 3.0 ),10,Subtraction,0.4785
+chal-322,( 167.0 - 89.0 ),78,Subtraction,0.5091
+chal-692,( 232.0 - 86.0 ),146,Subtraction,0.5091
+chal-556,( 37.0 - 36.0 ),1,Subtraction,0.4938
+chal-594,( 215.0 / 5.0 ),43,Common-Division,0.4938
+chal-838,( ( 9.0 + 8.0 ) + 17.0 ),34,Addition,0.937
+chal-223,( 19.0 - 4.0 ),15,Subtraction,0.4785
+chal-304,( 12.0 - 11.0 ),1,Subtraction,0.4938
+chal-717,( 4.0 - 3.0 ),1,Subtraction,0.4632
+chal-159,( ( 31.0 + 27.0 ) * 11.0 ),638,Multiplication,0.958
+chal-499,( 14.0 - 5.0 ),9,Subtraction,0.4785
+chal-570,( 32.0 / 8.0 ),4,Common-Division,0.4785
+chal-898,( 17.0 - 11.0 ),6,Subtraction,0.4938
+chal-293,( 27.0 - 23.0 ),4,Subtraction,0.4938
+chal-466,( 46.0 - 43.0 ),3,Subtraction,0.4938
+chal-989,( ( 109.0 + 82.0 ) * 79.0 ),15089,Multiplication,0.9685
+chal-400,( ( 4.0 + 8.0 ) / 3.0 ),4,Common-Division,0.9265
+chal-3,( 26.0 - 9.0 ),17,Subtraction,0.4785
+chal-887,( 50.0 - 6.0 ),44,Subtraction,0.4785
+chal-169,( ( 33.0 + 51.0 ) - 63.0 ),21,Subtraction,0.958
+chal-726,( 242.0 - 136.0 ),106,Subtraction,0.5244
+chal-870,( 26.0 / 13.0 ),2,Common-Division,0.4938
+chal-219,( 14.0 / 7.0 ),2,Common-Division,0.4785
+chal-493,( ( 491.0 - 216.0 ) * 1181.0 ),324775,Multiplication,1.0
+chal-716,( 13.0 - ( 9.0 - 4.0 ) ),8,Subtraction,0.937
+chal-752,( 10.0 - 8.0 ),2,Subtraction,0.4785
+chal-171,( 893835.0 + 644997.0 ),1538832,Addition,0.616
+chal-243,( 52.0 + 38.0 ),90,Addition,0.4938
+chal-981,( 15.0 - 10.0 ),5,Subtraction,0.4938
+chal-16,( ( 36.0 - 12.0 ) - 8.0 ),16,Subtraction,0.9475
+chal-554,( 28.0 - 22.0 ),6,Subtraction,0.4938
+chal-668,( 3.0 + 6.0 ),9,Addition,0.4632
+chal-52,( 14.0 - 8.0 ),6,Subtraction,0.4785
+chal-990,( 7.0 - 4.0 ),3,Subtraction,0.4632
+chal-564,( 12.0 - 11.0 ),1,Subtraction,0.4938
+chal-454,( 19.0 - 15.0 ),4,Subtraction,0.4938
+chal-78,( 5.0 + 3.0 ),8,Addition,0.4632
+chal-256,( 14.0 - 5.0 ),9,Subtraction,0.4785
+chal-913,( ( 868.0 + 868.0 ) - 281.0 ),1455,Subtraction,0.9895
+chal-718,( 81.0 - 68.0 ),13,Subtraction,0.4938
+chal-188,( 78.0 - 22.0 ),56,Subtraction,0.4938
+chal-830,( 17.0 - 16.0 ),1,Subtraction,0.4938
+chal-144,( 60.0 / 10.0 ),6,Common-Division,0.4938
+chal-967,( 38.0 / 19.0 ),2,Common-Divison,0.4938
+chal-815,( ( 563.0 + 558.0 ) + 332.0 ),1453,Addition,0.9895
+chal-706,( 78.0 + 48.0 ),126,Addition,0.4938
+chal-924,( ( 4.0 * 20.0 ) - 18.0 ),62,Subtraction,0.9475
+chal-255,( ( 700.0 + 700.0 ) + 142.0 ),1542,Addition,0.9895
+chal-112,( 38.0 * 49.0 ),1862,Multiplication,0.4938
+chal-348,( 527.0 + 554.0 ),1081,Addition,0.5244
+chal-413,( ( 36.0 + 13.0 ) + 49.0 ),98,Addition,0.958
+chal-63,( 52.0 / 26.0 ),2,Common-Division,0.4938
+chal-101,( ( 3.0 + 5.0 ) + 2.0 ),10,Addition,0.9265
+chal-662,( ( 201.0 + 217.0 ) * 14.0 ),5852,Multiplication,0.979
+chal-670,( ( 3.0 + 5.0 ) + 2.0 ),10,Addition,0.9265
+chal-690,( 27.0 + 53.0 ),80,Addition,0.4938
+chal-56,( 154.0 + 50.0 ),204,Addition,0.5091
+chal-479,( 24.0 * 45.0 ),1080,Multiplication,0.4938
+chal-421,( 12.0 - 11.0 ),1,Subtraction,0.4938
+chal-756,( 42.0 / 2.0 ),21,Common-Division,0.4785

@@ -1,22 +1,12 @@
 import math
 
-# Dictionary of allowed names for safe evaluation - all trig functions use RADIANS
+# Dictionary of allowed names for safe evaluation
 ALLOWED_NAMES = {
     # constants
     "pi": math.pi,
     "e": math.e,
     
-    # trig functions (input in RADIANS)
-    "sin": math.sin,
-    "cos": math.cos,
-    "tan": math.tan,
-    
-    # inverse trig functions (output in RADIANS)
-    "asin": math.asin,
-    "acos": math.acos,
-    "atan": math.atan,
-    
-    # other functions that we may require
+    # math functions
     "sqrt": math.sqrt,
     "log": math.log10,  # log base 10
     "ln": math.log,     # natural log
